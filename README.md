@@ -1,5 +1,6 @@
 # Creditcard-Fraud-Detection
 Fraud Detection model based on anonymized credit card transactions. 
+Dataset can be downloaded here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 main.py:
  
